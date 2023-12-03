@@ -1,2 +1,2 @@
 # rsschool-cv
-[https://talgatmendekov.github.io/rsschool-cv/cv] (CV project)
+[https://talgatmendekov.github.io/rsschool-cv/] (CV project)
