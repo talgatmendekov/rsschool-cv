@@ -27,3 +27,14 @@ function multiply(a, b) {
     return a * b
 }
 ```
+## Courses
+
+* Frontend developer. Peaksoft (completed)
+* JavaScript/Frontend. Stage1. RS School (in progress)
+
+## Languages
+
+* English - proficient
+* Turkish - proficient
+* Russian - native
+* Kyrgyz -native
